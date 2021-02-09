@@ -1,0 +1,7 @@
+<$HOME/app/mk/inc/config
+PROGNAME = 9sed
+INCS = $INC9
+DEFS = -D_DEFAULT_SOURCE
+LDFLAGS = $LD_STATIC_FLAG
+CFILES = main.c
+AFILES = $OBJ9

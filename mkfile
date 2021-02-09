@@ -1,0 +1,2 @@
+<mkconfig
+<$MKINCDIR/cbuild
