@@ -1,6 +1,6 @@
 <$HOME/app/mk/inc/config
 PROGNAME = 9sed
-INCS = $INC9
+INCS = -I$INCDIR
 DEFS = -D_DEFAULT_SOURCE
 LDFLAGS = $LD_STATIC_FLAG
 CFILES = main.c
